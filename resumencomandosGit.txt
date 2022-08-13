@@ -7,5 +7,6 @@ git log --oneline --> me reporta todos los commit y me encabeza el ultimo commit
 gti config user.name --> para subir archivos al repo de github
 git config user.email--> "     "    "" 
 git remote add origin https://github.com/ivincon/PracticandoGit.git --> es para vicuncular con el github remoto
+git push origin main --> me sube todo a la nube
 
 
