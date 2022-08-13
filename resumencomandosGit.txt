@@ -1,0 +1,3 @@
+git init --> para inicializar el repositorio local
+gti status -s o git status--> me dice con `??`en rojo que los archivos estan untraker o con `A` los que ya estan subiedos.
+
